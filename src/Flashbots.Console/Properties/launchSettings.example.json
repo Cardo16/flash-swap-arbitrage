@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Flashbots.Console": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "privatekey": "",
+        "infurakey": ""
+      }
+    }
+  }
+}
